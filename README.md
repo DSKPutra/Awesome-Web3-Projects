@@ -1,4 +1,4 @@
-# Awesome Web3 Projects
+# Complete Web3 Projects Development Bootcamp by DSKPutra
 
 Welcome to the Awesome Web3 Projects repository! This is a handpicked collection of inspiring and educational Web3 projects, perfect for those who are new to the ecosystem or those looking to expand their understanding. If you're new to Web3, don't worry – there's plenty to learn and a great community ready to help. So, let's dive in!
 
